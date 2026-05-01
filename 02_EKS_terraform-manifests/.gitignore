@@ -1,0 +1,9 @@
+.terraform/
+.terraform.lock.hcl
+
+# Terraform state files (VERY IMPORTANT)
+*.tfstate
+*.tfstate.*
+
+# Windows junk (your case)
+*Zone.Identifier
